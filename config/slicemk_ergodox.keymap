@@ -48,7 +48,7 @@
     &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none
     &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none
     &none      &none      &none      &none      &none      &none                            &none      &none      &none      &none      &none      &none
-   &kp LSFT    &none      &none      &kp LBKT   &kp RBKT   &none      &none      &none      &none      &none      &none      &none      &none      &bt RSFT
+    &kp LSFT   &none      &none      &kp LBKT   &kp RBKT   &none      &none      &none      &none      &none      &none      &none      &none      &kp RSFT
     &none      &none      &none      &none      &none                                                  &none      &none      &none      &none      &none
                                                            &none      &none      &none      &none
                                                                       &none      &none
