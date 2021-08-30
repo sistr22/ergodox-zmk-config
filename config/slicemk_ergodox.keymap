@@ -33,7 +33,7 @@
     &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &kp EQUAL  &bt BT_CLR
     &none      &kp F1     &kp F2     &kp F3     &kp F4     &none      &none      &none      &none      &none      &none      &none      &kp STAR   &out OUT_USB
     &none      &kp F5     &kp F6     &kp F7     &kp F8     &none                            &none      &none      &none      &none      &none      &out OUT_BLE
-    &none      &kp F9     &kp F10    &kp F11    &kp F12    &none      &none      &none      &none      &none      &none      &none      &none      &none
+    &kp LSFT   &kp F9     &kp F10    &kp F11    &kp F12    &none      &none      &none      &none      &none      &none      &none      &none      &kp RSFT
     &none      &none      &none      &none      &none                                                  &none      &none      &none      &none      &out OUT_TOG
                                                            &none      &none      &none      &none
                                                                       &none      &none
