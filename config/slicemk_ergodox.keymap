@@ -23,7 +23,7 @@
                                                            &kp DEL    &kp HOME   &kp PGUP    &kp ESC
                                                                       &kp END    &kp PGDN
                                                 &kp SPC    &kp BKSP                         &kp LSFT   &kp RET
-                                                                      &kp LGUI   &mo 1
+                                                                      &mo 1      &mo 2
                         >;
                 };
 
