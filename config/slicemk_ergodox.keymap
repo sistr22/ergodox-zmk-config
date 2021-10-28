@@ -22,7 +22,7 @@
     &kp LCTL   &none      &kp LALT   &kp LARW   &kp RARW                                               &kp UARW   &kp DARW   &kp RALT   &none      &mo 2
                                                            &kp DEL    &kp HOME   &kp PGUP    &kp ESC
                                                                       &kp END    &kp PGDN
-                                                &kp SPC    &kp BKSP                         &kp LSFT   &kp RET
+                                                &kp SPC    &kp BKSP                         &none      &kp RET
                                                                       &mo 1      &mo 2
                         >;
                 };
@@ -31,9 +31,9 @@
                         bindings = <
     &bootloader
     &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &kp EQUAL  &bt BT_CLR
-    &none      &kp F1     &kp F2     &kp F3     &kp F4     &none      &none      &none      &none      &none      &none      &none      &kp STAR   &out OUT_USB
-    &none      &kp F5     &kp F6     &kp F7     &kp F8     &none                            &none      &none      &none      &none      &none      &out OUT_BLE
-    &kp LSFT   &kp F9     &kp F10    &kp F11    &kp F12    &none      &none      &none      &none      &none      &none      &none      &none      &kp RSFT
+    &none      &kp F1     &kp F2     &kp F3     &kp F4     &none      &none      &none      &none      &kp NUM_7  &kp NUM_8  &kp NUM_9  &kp STAR   &out OUT_USB
+    &none      &kp F5     &kp F6     &kp F7     &kp F8     &none                            &none      &kp NUM_4  &kp NUM_5  &kp NUM_6  &kp PLUS   &out OUT_BLE
+    &kp LSFT   &kp F9     &kp F10    &kp F11    &kp F12    &none      &none      &none      &none      &kp NUM_1  &kp NUM_2  &kp NUM_3  &kp MINUS  &kp RSFT
     &none      &none      &none      &none      &none                                                  &none      &none      &none      &none      &out OUT_TOG
                                                            &none      &none      &none      &none
                                                                       &none      &none
@@ -46,8 +46,8 @@
                         bindings = <
     &bootloader
     &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none
-    &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none      &none
-    &none      &none      &none      &none      &none      &none                            &none      &none      &none      &none      &none      &none
+    &none      &none      &none      &kp LBRC   &kp RBRC   &none      &none      &none      &none      &none      &none      &none      &none      &none
+    &none      &none      &none      &kp LPAR   &kp RPAR   &none                            &none      &none      &none      &none      &none      &none
     &kp LSFT   &none      &none      &kp LBKT   &kp RBKT   &none      &none      &none      &none      &none      &none      &none      &none      &kp RSFT
     &none      &none      &none      &none      &none                                                  &none      &none      &none      &none      &none
                                                            &none      &none      &none      &none
